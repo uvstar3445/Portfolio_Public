@@ -37,7 +37,3 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
-
-## Notes
-
-Project pages distinguish my individual contributions from team work where applicable. Employer-proprietary material and private infrastructure details are intentionally excluded.
